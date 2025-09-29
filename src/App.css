@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  min-width: 320px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; /* stack header/content/footer vertically */
+  background-color: #f9fafc;
+}
